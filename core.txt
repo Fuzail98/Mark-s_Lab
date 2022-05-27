@@ -1,0 +1,16 @@
+{
+    "product_abi": "22.1",
+    "product_arch": "amd64",
+    "product_copyright_owner": "ICCN",
+    "product_copyright_url": "https://www.iccnetworking.com/",
+    "product_copyright_years": "2014-2022",
+    "product_email": "info@iccnetworking.com",
+    "product_flavour": "OpenSSL",
+    "product_hash": "42de9d6d9",
+    "product_id": "opnsense",
+    "product_name": "AGW",
+    "product_nickname": "AGW",
+    "product_series": "22.1",
+    "product_version": "22.1.6",
+    "product_website": "https://iccnewtorking.com/"
+}
